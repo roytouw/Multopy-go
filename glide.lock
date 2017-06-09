@@ -1,0 +1,8 @@
+hash: 7314d461fe07c3634851407682387129e3d39b2bb36480e55ac27d897630d648
+updated: 2017-06-09T20:21:30.8440414+02:00
+imports:
+- name: github.com/atotto/clipboard
+  version: bb272b845f1112e10117e3e45ce39f690c0001ad
+- name: github.com/nsf/termbox-go
+  version: 0926a9b854b0f36001855cbe90e13fafe5316353
+testImports: []

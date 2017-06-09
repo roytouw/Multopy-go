@@ -1,0 +1,4 @@
+package: Multopy
+import:
+- package: github.com/atotto/clipboard
+- package: github.com/nsf/termbox-go
